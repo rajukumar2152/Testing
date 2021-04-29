@@ -1,0 +1,6 @@
+this file is created to merge 
+I know here how to merge the two braches  . 
+
+git branch se paranch create ho jayega 
+
+git checkout master   // through this we go to the master brnch .
